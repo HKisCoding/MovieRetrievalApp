@@ -1,6 +1,6 @@
 # Backend:
 1. The data was crawled from https://dongphym.net/ 
-2. Using Vector space model with tf-idf and KNN to count the similarity between query and films. 
+2. Using Bag of Word model with tf-idf and KNN to count the similarity between query and films. 
 
 # Frontend:
 1. The app was developed using python tkinter.
